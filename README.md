@@ -6,8 +6,6 @@ I'm also into UI/UX design and have over 3 years of experience with tools like P
 
 I love mixing creativity with technology — and I’m just getting started. Let’s learn and grow together!
 
-- 📫 How to reach me: linkedin.com/in/ankit-core-matrix
-
 
 <!---
 CoreMaTriX-0/CoreMaTriX-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
