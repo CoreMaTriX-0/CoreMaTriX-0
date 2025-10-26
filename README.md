@@ -1,6 +1,5 @@
 # 💫 About Me:
 Hi, I’m Ankit Yadav — a passionate tech enthusiast from India, currently pursuing my BCA at the University of Lucknow. I have always been driven by a deep curiosity for technology and design.
-I am currently working on Legal_eyes
 
 
 ## 🌐 Socials:
