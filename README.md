@@ -20,7 +20,7 @@
 ---
 
 <!-- About Me -->
-## 🧑‍💻 About Me
+## About Me
 
 ```python
 class AnkitYadav:
@@ -29,8 +29,8 @@ class AnkitYadav:
         self.location   = "India 🇮🇳"
         self.education  = "BCA — University of Lucknow"
         self.passion    = ["Technology", "Design", "Problem Solving"]
-        self.currently  = "Building things that matter 🚀"
-        self.fun_fact   = "I debug with coffee ☕ and curiosity 🔍"
+        self.currently  = "Building things that matter"
+        self.fun_fact   = "I debug with coffee and curiosity"
 
     def say_hi(self):
         print("Thanks for visiting! Let's build something amazing together.")
@@ -42,7 +42,7 @@ me.say_hi()
 ---
 
 <!-- GitHub Stats — Auto-updating via GitHub Readme Stats API -->
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -52,7 +52,7 @@ me.say_hi()
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoreMaTriX-0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8&cache_seconds=1800" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CoreMaTriX-0&theme=tokyonight&exclude=" width="49%" />
 
 </div>
 
@@ -89,7 +89,7 @@ me.say_hi()
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CoreMaTriX-0&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CoreMaTriX-0&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true&custom_title=Ankit's%20Yearly%20Contribution%20Graph" width="100%"/>
 </div>
 
 ---
