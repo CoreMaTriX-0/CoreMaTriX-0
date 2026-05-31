@@ -1,21 +1,163 @@
-# 💫 About Me:
-Hi, I’m Ankit Yadav — a passionate tech enthusiast from India, currently pursuing my BCA at the University of Lucknow. I have always been driven by a deep curiosity for technology and design.
+<div align="center">
 
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ankit%20Yadav&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Tech%20Enthusiast%20%7C%20Designer%20%7C%20Builder&descAlignY=58&descSize=20&animation=fadeIn" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/core.matrix/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankit-core-matrix/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/C0reMaTriX) 
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ankit+%F0%9F%91%8B;BCA+Graduate+%7C+University+of+Lucknow;Passionate+about+Tech+%26+Design;Building+cool+things+with+code+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CoreMaTriX-0&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=CoreMaTriX-0&theme=darcula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CoreMaTriX-0&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=CoreMaTriX-0&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/CoreMaTriX-0)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CoreMaTriX-0&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- About Me -->
+## 🧑‍💻 About Me
+
+```python
+class AnkitYadav:
+    def __init__(self):
+        self.name       = "Ankit Yadav"
+        self.location   = "India 🇮🇳"
+        self.education  = "BCA — University of Lucknow"
+        self.passion    = ["Technology", "Design", "Problem Solving"]
+        self.currently  = "Building things that matter 🚀"
+        self.fun_fact   = "I debug with coffee ☕ and curiosity 🔍"
+
+    def say_hi(self):
+        print("Thanks for visiting! Let's build something amazing together.")
+
+me = AnkitYadav()
+me.say_hi()
+```
+
+---
+
+<!-- GitHub Stats — Auto-updating via GitHub Readme Stats API -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=CoreMaTriX-0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&include_all_commits=true&count_private=true" width="49%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CoreMaTriX-0&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=c9d1d9&stroke=A78BFA" width="49%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoreMaTriX-0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" width="49%" />
+
+</div>
+
+---
+
+<!-- Contribution Graph — Auto-updating -->
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CoreMaTriX-0/CoreMaTriX-0/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CoreMaTriX-0/CoreMaTriX-0/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CoreMaTriX-0/CoreMaTriX-0/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+> ⚠️ To enable the snake animation, add this GitHub Action to your profile repo.  
+> Create `.github/workflows/snake.yml` — instructions at the bottom of this README.
+
+---
+
+<!-- Tech Stack -->
+## 🛠️ Tech Stack
+
+### 💬 Languages
+<div>
+  <img src="https://skillicons.dev/icons?i=python,java&theme=dark" />
+</div>
+
+### ⚙️ Frameworks & Tools
+<div>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark" />
+</div>
+
+### ☁️ DevOps & Cloud
+<div>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,gcp&theme=dark" />
+</div>
+
+### 🎨 Design
+<div>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,canva&theme=dark" />
+</div>
+
+---
+
+<!-- Activity Graph — Auto-updating -->
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CoreMaTriX-0&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
+<!-- Profile Views Counter — Auto-updating -->
+<div align="center">
+
+### 👁️ Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=CoreMaTriX-0&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
+</div>
+
+---
+
+<!-- Snake Action Instructions (hidden comment for developer) -->
+<!--
+## 🐍 Enable Snake Animation
+
+Create the file `.github/workflows/snake.yml` in your CoreMaTriX-0 profile repo with:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+-->
