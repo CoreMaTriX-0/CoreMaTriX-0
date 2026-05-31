@@ -48,7 +48,7 @@ me.say_hi()
 
 <img src="https://github-readme-stats.vercel.app/api?username=CoreMaTriX-0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&include_all_commits=true&count_private=true" width="49%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CoreMaTriX-0&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=c9d1d9&stroke=A78BFA" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=CoreMaTriX-0&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=c9d1d9&stroke=A78BFA" width="49%" />
 
 <br/><br/>
 
@@ -78,7 +78,9 @@ me.say_hi()
 
 ### 🎨 Design
 <div>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,canva&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop&theme=dark" />
+  <br/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </div>
 
 ---
