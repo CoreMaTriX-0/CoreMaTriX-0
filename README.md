@@ -11,16 +11,16 @@
 <br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/CoreMaTriX-0)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-core-matrix/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pix.mosaic/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/C0reMaTriX)
 
 </div>
 
 ---
 
 <!-- About Me -->
-## 🧑‍💻 About Me
+## About Me
 
 ```python
 class AnkitYadav:
@@ -29,8 +29,8 @@ class AnkitYadav:
         self.location   = "India 🇮🇳"
         self.education  = "BCA — University of Lucknow"
         self.passion    = ["Technology", "Design", "Problem Solving"]
-        self.currently  = "Building things that matter 🚀"
-        self.fun_fact   = "I debug with coffee ☕ and curiosity 🔍"
+        self.currently  = "Building things that matter"
+        self.fun_fact   = "I debug with coffee and curiosity"
 
     def say_hi(self):
         print("Thanks for visiting! Let's build something amazing together.")
@@ -42,7 +42,7 @@ me.say_hi()
 ---
 
 <!-- GitHub Stats — Auto-updating via GitHub Readme Stats API -->
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -59,24 +59,24 @@ me.say_hi()
 ---
 
 <!-- Tech Stack -->
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💬 Languages
+### Languages
 <div>
   <img src="https://skillicons.dev/icons?i=python,java&theme=dark" />
 </div>
 
-### ⚙️ Frameworks & Tools
+### Frameworks & Tools
 <div>
   <img src="https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark" />
 </div>
 
-### ☁️ DevOps & Cloud
+### DevOps & Cloud
 <div>
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github,gcp&theme=dark" />
 </div>
 
-### 🎨 Design
+### Design
 <div>
   <img src="https://skillicons.dev/icons?i=figma,photoshop&theme=dark" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" style="vertical-align:12px" />
@@ -85,7 +85,7 @@ me.say_hi()
 ---
 
 <!-- Activity Graph — Auto-updating -->
-## 📈 Activity Graph
+## Activity Graph
 
 <div align="center">
   <img src="https://ghchart.rshah.org/A78BFA/CoreMaTriX-0" width="100%" />
