@@ -58,22 +58,6 @@ me.say_hi()
 
 ---
 
-<!-- Contribution Graph — Auto-updating -->
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CoreMaTriX-0/CoreMaTriX-0/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CoreMaTriX-0/CoreMaTriX-0/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CoreMaTriX-0/CoreMaTriX-0/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-> ⚠️ To enable the snake animation, add this GitHub Action to your profile repo.  
-> Create `.github/workflows/snake.yml` — instructions at the bottom of this README.
-
----
-
 <!-- Tech Stack -->
 ## 🛠️ Tech Stack
 
@@ -111,53 +95,9 @@ me.say_hi()
 <!-- Profile Views Counter — Auto-updating -->
 <div align="center">
 
-### 👁️ Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=CoreMaTriX-0&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)
-
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
 </div>
 
----
 
-<!-- Snake Action Instructions (hidden comment for developer) -->
-<!--
-## 🐍 Enable Snake Animation
-
-Create the file `.github/workflows/snake.yml` in your CoreMaTriX-0 profile repo with:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
-    steps:
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
--->
