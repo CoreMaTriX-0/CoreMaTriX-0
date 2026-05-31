@@ -46,13 +46,13 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CoreMaTriX-0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-stats-alpha.vercel.app/api?username=CoreMaTriX-0&cc=0d1117&tc=A78BFA&ic=A78BFA&bc=0d1117" width="49%" />
 
 <img src="https://streak-stats.demolab.com/?user=CoreMaTriX-0&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=c9d1d9&stroke=A78BFA" width="49%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoreMaTriX-0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoreMaTriX-0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8&cache_seconds=1800" width="49%" />
 
 </div>
 
