@@ -20,7 +20,7 @@
 ---
 
 <!-- About Me -->
-## About Me
+## 🧑‍💻 About Me
 
 ```python
 class AnkitYadav:
@@ -29,8 +29,8 @@ class AnkitYadav:
         self.location   = "India 🇮🇳"
         self.education  = "BCA — University of Lucknow"
         self.passion    = ["Technology", "Design", "Problem Solving"]
-        self.currently  = "Building things that matter"
-        self.fun_fact   = "I debug with coffee and curiosity"
+        self.currently  = "Building things that matter 🚀"
+        self.fun_fact   = "I debug with coffee ☕ and curiosity 🔍"
 
     def say_hi(self):
         print("Thanks for visiting! Let's build something amazing together.")
@@ -42,7 +42,7 @@ me.say_hi()
 ---
 
 <!-- GitHub Stats — Auto-updating via GitHub Readme Stats API -->
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -52,7 +52,7 @@ me.say_hi()
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CoreMaTriX-0&theme=tokyonight&exclude=" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CoreMaTriX-0&theme=tokyonight&exclude=" width="35%" />
 
 </div>
 
@@ -79,8 +79,7 @@ me.say_hi()
 ### 🎨 Design
 <div>
   <img src="https://skillicons.dev/icons?i=figma,photoshop&theme=dark" />
-  <br/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" style="vertical-align:12px" />
 </div>
 
 ---
