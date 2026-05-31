@@ -88,7 +88,7 @@ me.say_hi()
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CoreMaTriX-0&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true&custom_title=Ankit's%20Yearly%20Contribution%20Graph&days=365" width="100%"/>
+  <img src="https://ghchart.rshah.org/A78BFA/CoreMaTriX-0" width="100%" />
 </div>
 
 ---
